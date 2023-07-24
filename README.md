@@ -24,7 +24,7 @@ ORDER BY token_trs.block_timestamp DESC
 
 # Run
 
-*The data in the code is demonstrated by some synthetic data.
+*The code is demonstrated by some synthetic data.
 
 Every .py file has a runnable main function.
 

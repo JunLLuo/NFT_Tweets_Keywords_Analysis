@@ -97,10 +97,6 @@ if __name__ == "__main__":
         for sentence in sentences
     ]
 
-    tup_list = [("a", 1), ("b", 2)]
-    dictionary = {}
-    print("Converted Tuple List to Dict:", Convert(tup_list, dictionary))
-
     i = 0
     p = 0.5
     tfidf, tfs, idfs = get_tfidf_from_cnts(cnts, i, p)

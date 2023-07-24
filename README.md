@@ -32,7 +32,7 @@ Every .py file has a runnable main function.
 # Citation
 
 Will be happy if this work is useful for your research. 
-(will update the citation to inproceedings later)
+(The citation will be updated to inproceedings later)
 ```
 @article{luo2022understanding,
   title={Understanding NFT price moves through Social media keywords analysis},

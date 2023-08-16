@@ -32,13 +32,22 @@ Every .py file has a runnable main function.
 # Citation
 
 Will be happy if this work is useful for your research. 
-(The citation will be updated to inproceedings later)
 ```
-@article{luo2022understanding,
-  title={Understanding NFT price moves through Social media keywords analysis},
-  author={Luo, Junliang and Jia, Yongzheng and Liu, Xue},
-  journal={arXiv preprint arXiv:2209.07706},
-  year={2022}
+@inproceedings{10.1145/3582515.3609562,
+author = {Luo, Junliang and Jia, Yongzheng and Liu, Xue},
+title = {Understanding NFT Price Moves through Tweets Keywords Analysis},
+year = {2023},
+isbn = {9798400701160},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3582515.3609562},
+doi = {10.1145/3582515.3609562},
+pages = {410–418},
+numpages = {9},
+keywords = {NFT market analysis, Social media keywords analysis},
+location = {Lisbon, Portugal},
+series = {GoodIT '23}
 }
+
 ```
 

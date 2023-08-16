@@ -33,7 +33,7 @@ Every .py file has a runnable main function.
 
 Will be happy if this work is useful for your research. 
 ```
-@inproceedings{10.1145/3582515.3609562,
+@inproceedings{luo_nft_goodit23,
 author = {Luo, Junliang and Jia, Yongzheng and Liu, Xue},
 title = {Understanding NFT Price Moves through Tweets Keywords Analysis},
 year = {2023},

@@ -1,6 +1,6 @@
 # NFT_tweets_keywords_analysis
 
-Code for the paper [[arxiv](https://arxiv.org/abs/2209.07706), inproceedings]:  
+Code for the paper [[arxiv](https://arxiv.org/abs/2209.07706), [inproceedings](https://dl.acm.org/doi/abs/10.1145/3582515.3609562)]:  
 
 Understanding NFT Price Moves through Tweets Keywords Analysis, accepted at ACM 3rd International Conference on Information Technology for Social Good (GoodIT 2023) 06-08 September 2023, Lisbon, Portugal.
 
